@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hello! 🐭
 
-<!--
-**djdidi/djdidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📖 I'm a front-end developer.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+***Stack:***
+
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=%23fff)
+![TypeScript](https://img.shields.io/badge/typescript-%23007acc?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%23087EA4?style=for-the-badge&logo=react&logoColor=%23fff)
+![Static Badge](https://img.shields.io/badge/node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=%23fff)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
